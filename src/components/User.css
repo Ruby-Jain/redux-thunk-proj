@@ -1,0 +1,12 @@
+table{
+    padding: 70px;
+    font-size: 22px;
+    font-family: Verdana;
+    margin: 35px;
+    top: 30px;
+    color: black;
+    position: relative;
+}
+thead{
+    font-weight: bolder;
+}
